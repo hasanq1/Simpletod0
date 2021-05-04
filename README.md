@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
-* [x ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/hasanq1/Simpletod0/blob/master/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [ezgif](https://ezgif.com/video-to-gif).
+GIF created with [Apple Keynote App](Apple Keynote).
 
 ## Notes
 
